@@ -1,0 +1,1 @@
+[32mINFO    [0m CredKartLogger:test_credkart_user_profile_001.py:42 Testcase test_verify_Credkart_url_001 is started

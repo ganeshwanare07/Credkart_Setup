@@ -1,0 +1,31 @@
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:32 Testcase test_Credkart_login_excel_ddt_004 is started
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:34 Reading data from excel
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:36 Number of rows in excel is 5
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:41 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:46 Entering the Email Credencetest@test.com
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:48 Entering the password
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:50 Clicking on login button
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:52 Checking the login status
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:54 User login successful and taking screenshot
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:57 Clicking on menu button
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:59 Clicking on logout button
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:41 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:46 Entering the Email Credencetest@test.com11
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:48 Entering the password
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:50 Clicking on login button
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:52 Checking the login status
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:64 User login fail and taking screenshot
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:41 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:46 Entering the Email Credencetest@test.com
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:48 Entering the password
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:50 Clicking on login button
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:52 Checking the login status
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:64 User login fail and taking screenshot
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:41 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:46 Entering the Email Credencetest@test.com11
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:48 Entering the password
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:50 Clicking on login button
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:52 Checking the login status
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:64 User login fail and taking screenshot
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:80 All the testcases are passed
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:85 Testcase test_Credkart_login_excel_ddt_004 is completed

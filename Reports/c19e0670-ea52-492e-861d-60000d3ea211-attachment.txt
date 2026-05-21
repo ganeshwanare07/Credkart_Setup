@@ -1,0 +1,6 @@
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:32 Testcase test_Credkart_login_excel_ddt_004 is started
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:34 Reading data from excel
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:36 Number of rows in excel is 5
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:32 Testcase test_Credkart_login_excel_ddt_004 is started
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:34 Reading data from excel
+[32mINFO    [0m CredKartLogger:test_credkart_login_excel_002.py:36 Number of rows in excel is 5
