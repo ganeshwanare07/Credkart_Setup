@@ -313,3 +313,9 @@
 2026-05-22 12:59:16,554 - INFO - test_verify_Credkart_url_001 - 47 - Testcase test_verify_Credkart_url_001 is passed
 2026-05-22 12:59:16,555 - INFO - test_verify_Credkart_url_001 - 48 - Taking screenshot
 2026-05-22 12:59:16,747 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is completed
+2026-05-22 13:16:52,271 - INFO - test_verify_Credkart_url_001 - 42 - Testcase test_verify_Credkart_url_001 is started
+2026-05-22 13:16:52,829 - INFO - test_verify_Credkart_url_001 - 44 - Opening browser and getting https://automation.credence.in/login
+2026-05-22 13:16:52,830 - INFO - test_verify_Credkart_url_001 - 45 - Checking driver title
+2026-05-22 13:16:52,843 - INFO - test_verify_Credkart_url_001 - 47 - Testcase test_verify_Credkart_url_001 is passed
+2026-05-22 13:16:52,844 - INFO - test_verify_Credkart_url_001 - 48 - Taking screenshot
+2026-05-22 13:16:52,980 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is completed

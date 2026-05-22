@@ -1,16 +1,16 @@
 #!/bin/bash
 
-cd "$WORKSPACE"
+cd "/Users/ganeshwanare/.jenkins/workspace/Credkart"
 
 # Activate virtual environment
 source "/Users/ganeshwanare/Desktop/Ganesh/new test data/Testing Notes Credence/Assignments/.venv/bin/activate"
 
-# Check Python and pytest
+# Verify python & pytest
 python --version
 which python
 which pytest
 
-# Run test
+# Run tests
 pytest -v -s --browser chrome \
 --alluredir=Reports \
 --html=Html_Report/my_report.html
