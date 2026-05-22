@@ -1,15 +1,19 @@
 #!/bin/bash
 
-cd "/Users/ganeshwanare/Desktop/Ganesh/new test data/Testing Notes Credence/Assignments/Automation_Practice/Test_Cases_And_Projects/Automation_Test_Cases_35"
+cd "$WORKSPACE"
 
+# Activate virtual environment
 source "/Users/ganeshwanare/Desktop/Ganesh/new test data/Testing Notes Credence/Assignments/.venv/bin/activate"
 
+# Check Python and pytest
+python --version
+which python
+which pytest
+
+# Run test
 pytest -v -s --browser chrome \
 --alluredir=Reports \
 --html=Html_Report/my_report.html
-
-#Single browser with all test cases
-#pytest -v -s --browser chrome --alluredir=Reports --html=Html_Report/my_report.html
 
 #All Browsers with specific test case
 #pytest -v -s -n=auto --html=Html_reports\my_headless_report_31st_jan_2026.html --browser headless -k "test_verify_Credkart_url_001" --alluredir=AllureReports

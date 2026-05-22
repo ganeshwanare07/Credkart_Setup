@@ -295,3 +295,21 @@
 2026-05-22 00:01:40,593 - INFO - test_verify_Credkart_url_001 - 47 - Testcase test_verify_Credkart_url_001 is passed
 2026-05-22 00:01:40,595 - INFO - test_verify_Credkart_url_001 - 48 - Taking screenshot
 2026-05-22 00:01:40,726 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is completed
+2026-05-22 00:41:53,739 - INFO - test_verify_Credkart_url_001 - 42 - Testcase test_verify_Credkart_url_001 is started
+2026-05-22 00:41:54,379 - INFO - test_verify_Credkart_url_001 - 44 - Opening browser and getting https://automation.credence.in/login
+2026-05-22 00:41:54,380 - INFO - test_verify_Credkart_url_001 - 45 - Checking driver title
+2026-05-22 00:41:54,389 - INFO - test_verify_Credkart_url_001 - 47 - Testcase test_verify_Credkart_url_001 is passed
+2026-05-22 00:41:54,391 - INFO - test_verify_Credkart_url_001 - 48 - Taking screenshot
+2026-05-22 00:41:54,515 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is completed
+2026-05-22 00:42:21,059 - INFO - test_verify_Credkart_url_001 - 42 - Testcase test_verify_Credkart_url_001 is started
+2026-05-22 00:42:21,674 - INFO - test_verify_Credkart_url_001 - 44 - Opening browser and getting https://automation.credence.in/login
+2026-05-22 00:42:21,676 - INFO - test_verify_Credkart_url_001 - 45 - Checking driver title
+2026-05-22 00:42:21,685 - INFO - test_verify_Credkart_url_001 - 47 - Testcase test_verify_Credkart_url_001 is passed
+2026-05-22 00:42:21,686 - INFO - test_verify_Credkart_url_001 - 48 - Taking screenshot
+2026-05-22 00:42:21,886 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is completed
+2026-05-22 12:59:16,064 - INFO - test_verify_Credkart_url_001 - 42 - Testcase test_verify_Credkart_url_001 is started
+2026-05-22 12:59:16,540 - INFO - test_verify_Credkart_url_001 - 44 - Opening browser and getting https://automation.credence.in/login
+2026-05-22 12:59:16,543 - INFO - test_verify_Credkart_url_001 - 45 - Checking driver title
+2026-05-22 12:59:16,554 - INFO - test_verify_Credkart_url_001 - 47 - Testcase test_verify_Credkart_url_001 is passed
+2026-05-22 12:59:16,555 - INFO - test_verify_Credkart_url_001 - 48 - Taking screenshot
+2026-05-22 12:59:16,747 - INFO - test_verify_Credkart_url_001 - 57 - Testcase test_verify_Credkart_url_001 is completed

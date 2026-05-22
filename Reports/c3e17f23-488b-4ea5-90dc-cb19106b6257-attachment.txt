@@ -1,0 +1,6 @@
+INFO     CredKartLogger:test_credkart_user_profile_001.py:42 Testcase test_verify_Credkart_url_001 is started
+INFO     CredKartLogger:test_credkart_user_profile_001.py:44 Opening browser and getting https://automation.credence.in/login
+INFO     CredKartLogger:test_credkart_user_profile_001.py:45 Checking driver title
+INFO     CredKartLogger:test_credkart_user_profile_001.py:47 Testcase test_verify_Credkart_url_001 is passed
+INFO     CredKartLogger:test_credkart_user_profile_001.py:48 Taking screenshot
+INFO     CredKartLogger:test_credkart_user_profile_001.py:57 Testcase test_verify_Credkart_url_001 is completed
